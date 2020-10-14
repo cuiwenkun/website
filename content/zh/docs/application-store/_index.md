@@ -1,5 +1,5 @@
 ---
-title: "Application Store"
+title: "应用商店"
 description: "Getting started with KubeSphere DevOps project"
 layout: "single"
 
